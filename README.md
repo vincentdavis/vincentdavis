@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vincentdavis
+👋 Hi, I’m Vincent Davis<br>
+Python Developer focused on data science, data wrangling, economics, and Django web apps.
 
-<!---
-vincentdavis/vincentdavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*I am interested in everything*<br>
+*I don't know anything*<br>
+*I am probably out riding my bicycle*<br>
