@@ -1,5 +1,5 @@
 👋 Hi, I’m Vincent Davis<br>
-Python Developer focused on data science, data wrangling, economics, Django web apps with a bit of moble apps development.
+A developer focused on data science, data wrangling, economics, Django web apps with a bit of moble apps development.
 
 *I am interested in everything*<br>
 *I don't know anything*<br>
